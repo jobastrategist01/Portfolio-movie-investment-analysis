@@ -6,10 +6,10 @@ The `/images` folder contains selected screenshots extracted from the Power BI r
 
 All images were extracted from the following Power BI exports, available in the [`/data`](./data) folder:
 
-- [`Movie Analysis_Clean Filters.pdf`](./data/Movie%20Analysis_Clean%20Filters.pdf)  
+- [`Movie Analysis_Clean Filters.pdf`](./Data/Movie%20Analysis_Clean%20Filters.pdf)  
   Dashboard with **inactive filters** (broad dataset view across all years and budgets).
 
-- [`Movie Analysis_Example Filters.pdf`](./data/Movie%20Analysis_Example%20Filters.pdf)  
+- [`Movie Analysis_Example Filters.pdf`](./Data/Movie%20Analysis_Example%20Filters.pdf)  
   Dashboard with **example filters applied** (realistic budget and year range), simulating an investment scenario.
 
 
