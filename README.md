@@ -39,4 +39,8 @@ To explore the analysis:
 
 ---
 
-Made with ❤️ by Jorge Barros | [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+## 👤 Author
+
+**Jorge Barros**  
+Data analyst & Power BI developer  
+🔗 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jobastrategist/)) • 📧 [tuemail@example.com](mailto:jobastrategist@gmail.com)
