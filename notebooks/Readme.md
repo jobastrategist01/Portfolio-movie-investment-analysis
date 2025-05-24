@@ -1,4 +1,4 @@
-## 📓 Notebooks
+## 📓 Notebooks / Full Report
 
 The `/notebooks` folder contains the full exploratory data analysis conducted using Python and Jupyter Notebook. This analysis helped clean, transform, and extract key insights from the original movie dataset, later used to power the Power BI dashboard.
 
